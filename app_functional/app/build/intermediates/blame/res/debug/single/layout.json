@@ -1,0 +1,510 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_challenges_challenge_active_item.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_challenges_challenge_active_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_feeds_likes_footer.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_feeds_likes_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_h2h_h2h_stats_base_fragment.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_h2h_h2h_stats_base_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_friendsandmessages_tabs_friends_zlegacy_add_friend_item2.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_friendsandmessages_tabs_friends_zlegacy_add_friend_item2.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_friendsandmessages_tabs_messages_new_message_item.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_friendsandmessages_tabs_messages_new_message_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_feeds_info_challenge_historical.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_feeds_info_challenge_historical.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_h2h_h2h_subheader.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_h2h_h2h_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_friendsandmessages_tabs_friends_h2hsummary.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_friendsandmessages_tabs_friends_h2hsummary.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_h2h_h2h_stats_line.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_h2h_h2h_stats_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_challenges_challenge_historical_item.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_challenges_challenge_historical_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_numbered_circle.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\common_numbered_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_timetrial_time_trial_fragment.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_timetrial_time_trial_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_info_window.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\layout\\amu_info_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_feeds_tabs_newsfeed_news_feed_tab.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_feeds_tabs_newsfeed_news_feed_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_routestats_route_stats_fragment.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_routestats_route_stats_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_challenges_challenge_base_fragment.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_challenges_challenge_base_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_feeds_info_level_up.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_feeds_info_level_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_toolbar.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\common_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_friendsandmessages_tabs_friendrequests_friend_requests_toggler.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_friendsandmessages_tabs_friendrequests_friend_requests_toggler.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_icon_round_corner_progress_bar.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.akexorcist\\RoundCornerProgressBar\\2.0.3\\res\\layout\\layout_icon_round_corner_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_feeds_info_challenge_active.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_feeds_info_challenge_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_routestats_route_general_stats_tab.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_routestats_route_general_stats_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_friendsandmessages_tabs_friendrequests_sent_request_item.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_friendsandmessages_tabs_friendrequests_sent_request_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_feeds_liker_friend_item.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_feeds_liker_friend_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_notifications_challenge_complete_fragment.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_notifications_challenge_complete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_feeds_feed_test_layout2.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_feeds_feed_test_layout2.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widgets_spinner_item.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\widgets_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_text_bubble.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\layout\\amu_text_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_challenges_challenge_request_out_item.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_challenges_challenge_request_out_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_friendsandmessages_tabs_friendrequests_received_request_item.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_friendsandmessages_tabs_friendrequests_received_request_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_challenges_challenges_historical.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_challenges_challenges_historical.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_friendsandmessages_tabs_friends_add_friend_item.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_friendsandmessages_tabs_friends_add_friend_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_challenges_challenges_active.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_challenges_challenges_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_friendsandmessages_tabs_friends_friends_tab.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_friendsandmessages_tabs_friends_friends_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_feeds_feeds_fragment.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_feeds_feeds_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_feeds_add_comment_bar.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_feeds_add_comment_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_text_round_corner_progress_bar.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.akexorcist\\RoundCornerProgressBar\\2.0.3\\res\\layout\\layout_text_round_corner_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_round_corner_progress_bar.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.akexorcist\\RoundCornerProgressBar\\2.0.3\\res\\layout\\layout_round_corner_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_feeds_info_achievement.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_feeds_info_achievement.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_feeds_tabs_myfeed_my_feed_item.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_feeds_tabs_myfeed_my_feed_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_list_divider_dark.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\common_list_divider_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_recyclerview_top_divider.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\common_recyclerview_top_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_h2h_h2h_routes_base_fragment.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_h2h_h2h_routes_base_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_challenges_challenge_lb_test.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_challenges_challenge_lb_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_feeds_liker_not_friend_item.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_feeds_liker_not_friend_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_feeds_info_route.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_feeds_info_route.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_friendsandmessages_tabs_messages_messages_tab.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_friendsandmessages_tabs_messages_messages_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_test_fragment.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_test_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_webview.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\layout\\amu_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_newmessage_new_message_screen.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_newmessage_new_message_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_friendsandmessages_tabs_friendrequests_friend_requests_tab.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_friendsandmessages_tabs_friendrequests_friend_requests_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_divider_h2h.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\common_divider_h2h.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_feeds_feed_test_layout.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_feeds_feed_test_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_routestats_route_l_board_item.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_routestats_route_l_board_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_preset_item.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\common_preset_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_challenges_challenge_new.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_challenges_challenge_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_feeds_like_bar.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_feeds_like_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_friendsandmessages_tabs_friends_friend_item.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_friendsandmessages_tabs_friends_friend_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_feeds_likes_and_comments_page.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_feeds_likes_and_comments_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_timetrial_right_toolbar.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_timetrial_right_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_feeds_comment.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_feeds_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_challenges_challenge_request_in_item.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_challenges_challenge_request_in_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_notifications_level_up_fragment.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_notifications_level_up_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_notifications_tt_complete_fragment.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_notifications_tt_complete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_routestats_route_friends_leaderboards_tab.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_routestats_route_friends_leaderboards_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_friendsandmessages_tabs_friends_buttons.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_friendsandmessages_tabs_friends_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_feeds_info_new_friend.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_feeds_info_new_friend.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widgets_dropdown_box.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\widgets_dropdown_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_friendsandmessages_tabs_messages_message_item.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_friendsandmessages_tabs_messages_message_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_feeds_likes_popup.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_feeds_likes_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_feeds_feed_item.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_feeds_feed_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_feeds_tabs_myfeed_my_feed_tab.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_feeds_tabs_myfeed_my_feed_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_routestats_route_l_board_footer.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_routestats_route_l_board_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_routestats_route_world_leaderboards_tab.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_routestats_route_world_leaderboards_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widgets_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\widgets_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_friendsandmessages_friends_messages_fragment.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_friendsandmessages_friends_messages_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screens_timetrial_tt_in_race_fragment.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\layout\\screens_timetrial_tt_in_race_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_header.xml"
+    }
+]

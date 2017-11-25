@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_5c1887dc624f79d42c4eac6dc055f0b0017dbaf1.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.4.4\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6f57b76211a1d7b0c1f18873af59faad95664681">
+        <dex dex="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\pre-dexed\debug\com.google.maps.android-android-maps-utils-0.4.4_6fd2d565177387dbe2e639a50d039e5ddbe18767.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.1.0_461ca9fba8d690afdc6929c9eccb5cc390601511.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_615f0b8034eec3d2b4625c97a7b9550f50edfbad.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_546e857a15a5260ba3022dc173236972480a1441.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.4.0_b6c91ea7698d8debf87dafba7787d7072a577dfb.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_d5b378790019a454eb123811ece87b0424f843a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_80449b0702cc70e284f96dff737a85709932093b.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_8eb438d85bf99971308baa6b122813ce62c1e118.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_320adcdd3f61650799dd172ff59ee7ac7c864967.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_a94487bd04b886177b01bc6aba110b499fc16bb0.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.0.1_b91553c1e22f65e5798f9c88b92915cde96f4fbd.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_681881b5b94bc9f2f141854cd7b2b2f351bd0843.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\exploded-aar\com.akexorcist\RoundCornerProgressBar\2.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="88c6386ad8356b89487b43bcaae4827b1abe999c">
+        <dex dex="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\pre-dexed\debug\com.akexorcist-RoundCornerProgressBar-2.0.3_4060d8737ba2d4536264c692fdb733cfe27200db.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_2cac5bda127eff14c8fc4c38594f382dc2a3b168.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.9.4\1c295b462f16702ebe720bbb08f62e1ba80da41b\joda-time-2.9.4.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="1c295b462f16702ebe720bbb08f62e1ba80da41b">
+        <dex dex="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\pre-dexed\debug\joda-time-2.9.4_05f646c3eb3878cb37830ebf66411e37eb699602.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\exploded-aar\com.github.rahatarmanahmed\circularprogressview\2.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="83546b0a7a55c89fcaa55ff282812a4e052e81fe">
+        <dex dex="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\pre-dexed\debug\com.github.rahatarmanahmed-circularprogressview-2.5.0_ffec827ec04fa17485e5ed4cce12d7b0a54d701c.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_d5da1ae4ecf2eaef47ecf596bae72d9134690da2.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.4.0_de9038a88e89b0be87f553a47366ae64aa153371.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\exploded-aar\com.android.support\support-v13\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="62f733cc92b1611138da965697f4654cd385e078">
+        <dex dex="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\pre-dexed\debug\com.android.support-support-v13-26.0.0-alpha1_09409b5c468c728f8b7234dc4c5bea4ba967ef41.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_61acf5d6e7e5f0b75aff1addfc361d09bb745915.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.4.0_6df3d863495a5259b115a7555ad7b4d28b79f1bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\USER\Documents\uni\NICK_REYNER_APP\app_functional\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.4.0_f692ab5bfab473bd88180baed8756ca6f89b49eb.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_cancel.png",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\mipmap-mdpi\\ic_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_trophy.png",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\mipmap-mdpi\\ic_trophy.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_spinnner_triangle_white.png",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\mipmap-mdpi\\ic_spinnner_triangle_white.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_dropdown_white.png",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\mipmap-mdpi\\ic_dropdown_white.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_like_white.png",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\mipmap-mdpi\\ic_like_white.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_challenge.png",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\mipmap-mdpi\\ic_challenge.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_dropdown_black.png",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\mipmap-mdpi\\ic_dropdown_black.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_close_white.png",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\mipmap-mdpi\\ic_close_white.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_stop_race.png",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\mipmap-mdpi\\ic_stop_race.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_tick_black.png",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\mipmap-mdpi\\ic_tick_black.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\round_corner_progress_icon.png",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\exploded-aar\\com.akexorcist\\RoundCornerProgressBar\\2.0.3\\res\\mipmap-mdpi\\round_corner_progress_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_comment_white.png",
+        "source": "C:\\Users\\USER\\Documents\\uni\\NICK_REYNER_APP\\app_functional\\app\\src\\main\\res\\mipmap-mdpi\\ic_comment_white.png"
+    }
+]
